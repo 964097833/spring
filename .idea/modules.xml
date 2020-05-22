@@ -7,6 +7,10 @@
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_03spring/day01_eesy_03spring.iml" filepath="$PROJECT_DIR$/day01_eesy_03spring/day01_eesy_03spring.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_04bean/day01_eesy_04bean.iml" filepath="$PROJECT_DIR$/day01_eesy_04bean/day01_eesy_04bean.iml" />
       <module fileurl="file://$PROJECT_DIR$/day01_eesy_05DI/day01_eesy_05DI.iml" filepath="$PROJECT_DIR$/day01_eesy_05DI/day01_eesy_05DI.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_01anno_ioc/day02_eesy_01anno_ioc.iml" filepath="$PROJECT_DIR$/day02_eesy_01anno_ioc/day02_eesy_01anno_ioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_02account_xmlioc/day02_eesy_02account_xmlioc.iml" filepath="$PROJECT_DIR$/day02_eesy_02account_xmlioc/day02_eesy_02account_xmlioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_03account_annoioc/day02_eesy_03account_annoioc.iml" filepath="$PROJECT_DIR$/day02_eesy_03account_annoioc/day02_eesy_03account_annoioc.iml" />
+      <module fileurl="file://$PROJECT_DIR$/day02_eesy_04account_annoioc_withoutxml/day02_eesy_04account_annoioc_withoutxml.iml" filepath="$PROJECT_DIR$/day02_eesy_04account_annoioc_withoutxml/day02_eesy_04account_annoioc_withoutxml.iml" />
     </modules>
   </component>
 </project>
