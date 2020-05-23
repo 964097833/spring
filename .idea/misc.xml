@@ -12,6 +12,11 @@
         <option value="$PROJECT_DIR$/day02_eesy_02account_xmlioc/pom.xml" />
         <option value="$PROJECT_DIR$/day02_eesy_03account_annoioc/pom.xml" />
         <option value="$PROJECT_DIR$/day02_eesy_04account_annoioc_withoutxml/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_01account/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_02proxy/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_03springAOP/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_04adviceType/pom.xml" />
+        <option value="$PROJECT_DIR$/day03_eesy_05annotationAOP/pom.xml" />
       </list>
     </option>
   </component>
